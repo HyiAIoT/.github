@@ -2,7 +2,7 @@
 
 Open-source AIoT hardware and device cloud platform.
 
-HyiAIoT focuses on ESP32-based AIoT devices, device cloud services, and vertical LLM gateway infrastructure.
+HyiAIoT focuses on RTOS-based hardware terminals, Linux-powered edge computing boxes, Chromium-based HMI systems, and vertical LLM gateway infrastructure.
 
 ## Projects
 
