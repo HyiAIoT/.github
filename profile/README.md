@@ -1,7 +1,5 @@
 # HYI
 
-# HYI
-
 End-to-end engineering for embedded products—from hardware, firmware,
 RF and high-speed PCB design to acoustics, mechanical design,
 manufacturing, automated testing, and production traceability.
