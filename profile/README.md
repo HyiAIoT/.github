@@ -9,7 +9,7 @@ Built on the global semiconductor industry and open-source ecosystem, HYI provid
 
 ## Repositories
 
-- [esp32-project](https://github.com/HyiAIoT/esp32-devkit)
+- [esp32-devkit](https://github.com/HyiAIoT/esp32-devkit)
 
 ## Contact
 
