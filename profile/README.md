@@ -1,20 +1,15 @@
 # HyiAIoT
 
-Open-source AIoT hardware and device cloud platform.
+Built on the global semiconductor industry and open-source ecosystem, HYI provides end-to-end product engineering across embedded hardware and software, RF and high-speed PCB design, full-stack systems, acoustics, mechanical design, manufacturing, automated testing, and production traceability.
 
-HyiAIoT focuses on RTOS-based hardware terminals, Linux-powered edge computing boxes, Chromium-based HMI systems, and vertical LLM gateway infrastructure.
 
 ## Projects
 
-- ESP32-S3 AI Desk Stand
-- ESP32-S3 Writing Robot
-- HyiAIoT Device SDK
-- HyiAIoT Device Cloud
-- AIoT LLM Gateway
+- ESP32 series development boards
 
 ## Repositories
 
-- [esp32s3-ai-desk-stand](https://github.com/HyiAIoT/esp32s3-ai-desk-stand)
+- [esp32-project](https://github.com/HyiAIoT/esp32-project)
 
 ## Contact
 
