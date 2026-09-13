@@ -1,6 +1,10 @@
 # HYI
 
-Built on the global semiconductor industry and open-source ecosystem, HYI provides end-to-end product engineering across embedded hardware and software, RF and high-speed PCB design, full-stack systems, acoustics, mechanical design, manufacturing, automated testing, and production traceability.
+# HYI
+
+End-to-end engineering for embedded products—from hardware, firmware,
+RF and high-speed PCB design to acoustics, mechanical design,
+manufacturing, automated testing, and production traceability.
 
 
 ## Projects
